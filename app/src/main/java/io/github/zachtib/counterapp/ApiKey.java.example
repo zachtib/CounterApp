@@ -1,0 +1,5 @@
+package io.github.zachtib.counterapp;
+
+public class ApiKey {
+    public static final String API_KEY = "{PUT API KEY HERE}";
+}
